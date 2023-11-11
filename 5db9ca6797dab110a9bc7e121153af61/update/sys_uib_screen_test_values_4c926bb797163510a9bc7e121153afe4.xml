@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "table": "task",
+    "sysId": "ab6850e0d9b53110cedf7dffddb48f72",
+    "query": "",
+    "extraParams": "",
+    "views": "",
+    "selectedTabIndex": ""
+}</macroponent_config>
+        <screen display_value="Variant">40926bb797163510a9bc7e121153afe2</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 12:44:53</sys_created_on>
+        <sys_id>4c926bb797163510a9bc7e121153afe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_4c926bb797163510a9bc7e121153afe4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 12:44:53</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
