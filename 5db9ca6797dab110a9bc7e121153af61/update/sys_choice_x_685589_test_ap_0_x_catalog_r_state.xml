@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_685589_test_ap_0_x_catalog_r" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_685589_test_ap_0_x_catalog_r</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-13 19:13:22</sys_created_on>
+            <sys_id>1aae076897e63110a9bc7e121153af1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+            <sys_update_name>sys_choice_x_685589_test_ap_0_x_catalog_r_state</sys_update_name>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-13 19:13:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New</label>
+            <language>en</language>
+            <name>x_685589_test_ap_0_x_catalog_r</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-13 19:13:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92ae076897e63110a9bc7e121153af1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-13 19:13:22</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_685589_test_ap_0_x_catalog_r</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-13 19:13:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6ae076897e63110a9bc7e121153af24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-13 19:13:22</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed</label>
+            <language>en</language>
+            <name>x_685589_test_ap_0_x_catalog_r</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-13 19:13:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eeae076897e63110a9bc7e121153af34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-13 19:13:23</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canceled</label>
+            <language>en</language>
+            <name>x_685589_test_ap_0_x_catalog_r</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-13 19:13:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62ae076897e63110a9bc7e121153af39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-13 19:13:23</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Peding</label>
+            <language>en</language>
+            <name>x_685589_test_ap_0_x_catalog_r</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-13 19:13:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2ae076897e63110a9bc7e121153af3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-13 19:13:23</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
