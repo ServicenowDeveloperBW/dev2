@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_gauge">
+    <sys_gauge action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate>COUNT</aggregate>
+        <attributes/>
+        <fieldname/>
+        <group_field/>
+        <lower_limit/>
+        <name>Unassigned Active Requests</name>
+        <order/>
+        <other_threshold>-2</other_threshold>
+        <parent/>
+        <query/>
+        <report display_value="Unassigned Active Requests">f8e00fa497a63110a9bc7e121153af66</report>
+        <roles/>
+        <stack_field/>
+        <sys_class_name>sys_gauge</sys_class_name>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:13:11</sys_created_on>
+        <sys_id>3ce00fa497a63110a9bc7e121153af7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unassigned Active Requests</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sys_gauge_3ce00fa497a63110a9bc7e121153af7b</sys_update_name>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:13:11</sys_updated_on>
+        <tablename>service_task</tablename>
+        <title>Unassigned Active Requests</title>
+        <type>report</type>
+        <upper_limit/>
+        <url/>
+        <view/>
+    </sys_gauge>
+</record_update>

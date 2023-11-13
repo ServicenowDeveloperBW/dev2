@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:13:10</sys_created_on>
+        <sys_id>d8e00fa497a63110a9bc7e121153af01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685589_test_ap_0_x_catalog_r.work_notes.x_685589_test_ap_0_x_catalog_r_user</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_security_acl display_value="x_685589_test_ap_0_x_catalog_r.work_notes">dce0cba497a63110a9bc7e121153affe</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d8e00fa497a63110a9bc7e121153af01</sys_update_name>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:13:10</sys_updated_on>
+        <sys_user_role display_value="x_685589_test_ap_0_x_catalog_r_user" name="x_685589_test_ap_0_x_catalog_r_user">dbd08ba497a63110a9bc7e121153af3c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
