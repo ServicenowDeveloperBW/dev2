@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
+        <misc>0</misc>
         <order>300</order>
         <published_ref/>
         <question display_value="What do you do when you are working? ">ad6387a897a63110a9bc7e121153af7a</question>
+        <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>Brian.Wallace</sys_created_by>
         <sys_created_on>2023-11-13 18:28:22</sys_created_on>
