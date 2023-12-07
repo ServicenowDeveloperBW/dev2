@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item/>
+        <catalog_variable>IO:e0ce4f8397a23110a9bc7e121153afa2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:38:39</sys_created_on>
+        <sys_id>11ce8f8397a23110a9bc7e121153afbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>descreva_o_problema_encontrado_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_11ce8f8397a23110a9bc7e121153afbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:38:39</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Test item UI policy">cdce8f8397a23110a9bc7e121153afb4</ui_policy>
+        <variable>descreva_o_problema_encontrado_00</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>catalog_ui_policy_action_11ce8f8397a23110a9bc7e121153afbe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item/><catalog_variable>IO:e0ce4f8397a23110a9bc7e121153afa2</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 13:38:39</sys_created_on><sys_id>11ce8f8397a23110a9bc7e121153afbe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>descreva_o_problema_encontrado_00</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>catalog_ui_policy_action_11ce8f8397a23110a9bc7e121153afbe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 13:38:39</sys_updated_on><table/><ui_policy display_value="Test item UI policy">cdce8f8397a23110a9bc7e121153afb4</ui_policy><variable>descreva_o_problema_encontrado_00</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-247006090</payload_hash>
+        <record_name>descreva_o_problema_encontrado_00</record_name>
+        <reverted_from/>
+        <source>51b9ca6797dab110a9bc7e121153af66</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:50:52</sys_created_on>
+        <sys_id>8c9157c797a23110a9bc7e121153afcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf225e97d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:50:52</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>55ce8f83e7a23110bbf86b156513c4c6</update_guid>
+        <update_guid_history>55ce8f83e7a23110bbf86b156513c4c6:860756837,55ce8f83e7a23110bbf86b156513c4c6:860756837</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="descreva_o_problema_encontrado_00">c2915bc797a23110a9bc7e121153af3f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-21 13:51:00</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>3146d4c79e9b48b99c65797bc225f8d9</sys_id>
+        <sys_metadata>11ce8f8397a23110a9bc7e121153afbe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>descreva_o_problema_encontrado_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_11ce8f8397a23110a9bc7e121153afbe</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_11ce8f8397a23110a9bc7e121153afbe">8c9157c797a23110a9bc7e121153afcc</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:51:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question">
+    <sc_ic_question action="DELETE">
+        <base_type>6</base_type>
+        <default_value/>
+        <help_text/>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>name_00</name>
+        <order>0</order>
+        <policy_payload>{"unrequire,require_sometimes,require":{"sys_id":"7a60134797a23110a9bc7e121153afe9","applies":"all_apply","action_sys_id":"8360134797a23110a9bc7e121153afff","name":"","conditions":[],"operation":"unrequire"},"show,show_sometimes":{"sys_id":"c360534797a23110a9bc7e121153af12","applies":"all_apply","action_sys_id":"4760534797a23110a9bc7e121153af1b","name":"","conditions":[],"operation":"show"}}</policy_payload>
+        <preconfigured>false</preconfigured>
+        <question_text>Name</question_text>
+        <read_only>false</read_only>
+        <read_only_question_type>false</read_only_question_type>
+        <sc_ic_column display_value="">f1624f2897a63110a9bc7e121153afeb</sc_ic_column>
+        <sc_ic_item_staging display_value="Test item">1962c72897a63110a9bc7e121153af26</sc_ic_item_staging>
+        <sc_ic_question_class display_value="Single Line Text">027ffb11eb5211003623666cd206fe1f</sc_ic_question_class>
+        <sc_ic_question_type display_value="-- Create your own Single Line Text  --">ee4eb0c0eb2211003623666cd206feac</sc_ic_question_type>
+        <sc_ic_section display_value="Section 1">e5624f2897a63110a9bc7e121153afda</sc_ic_section>
+        <scale_max>0</scale_max>
+        <scale_min>0</scale_min>
+        <sys_class_name>sc_ic_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:25:05</sys_created_on>
+        <sys_id>6eabcb8f97623110a9bc7e121153af34</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>name_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_ic_question_6eabcb8f97623110a9bc7e121153af34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:45:53</sys_updated_on>
+    </sc_ic_question>
+    <fx_price action="DELETE" query="id=6eabcb8f97623110a9bc7e121153af34"/>
+    <sys_translated_text action="DELETE" query="documentkey=6eabcb8f97623110a9bc7e121153af34"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_ic_question_6eabcb8f97623110a9bc7e121153af34</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question"><sc_ic_question action="INSERT_OR_UPDATE"><base_type>6</base_type><default_value/><help_text/><mandatory>false</mandatory><max_length>255</max_length><name>name_00</name><order>0</order><policy_payload>{"unrequire,require_sometimes,require":{"sys_id":"7a60134797a23110a9bc7e121153afe9","applies":"all_apply","action_sys_id":"8360134797a23110a9bc7e121153afff","name":"","conditions":[],"operation":"unrequire"},"show,show_sometimes":{"sys_id":"c360534797a23110a9bc7e121153af12","applies":"all_apply","action_sys_id":"4760534797a23110a9bc7e121153af1b","name":"","conditions":[],"operation":"show"}}</policy_payload><preconfigured>false</preconfigured><question_text>Name</question_text><read_only>false</read_only><read_only_question_type>false</read_only_question_type><sc_ic_column display_value="">f1624f2897a63110a9bc7e121153afeb</sc_ic_column><sc_ic_item_staging display_value="Test item">1962c72897a63110a9bc7e121153af26</sc_ic_item_staging><sc_ic_question_class display_value="Single Line Text">027ffb11eb5211003623666cd206fe1f</sc_ic_question_class><sc_ic_question_type display_value="-- Create your own Single Line Text  --">ee4eb0c0eb2211003623666cd206feac</sc_ic_question_type><sc_ic_section display_value="Section 1">e5624f2897a63110a9bc7e121153afda</sc_ic_section><scale_max>0</scale_max><scale_min>0</scale_min><sys_class_name>sc_ic_question</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 13:25:05</sys_created_on><sys_id>6eabcb8f97623110a9bc7e121153af34</sys_id><sys_mod_count>4</sys_mod_count><sys_name>name_00</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_ic_question_6eabcb8f97623110a9bc7e121153af34</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 13:45:53</sys_updated_on></sc_ic_question><fx_price action="delete_multiple" query="id=6eabcb8f97623110a9bc7e121153af34"/><sys_translated_text action="delete_multiple" query="documentkey=6eabcb8f97623110a9bc7e121153af34"/></record_update>]]></payload>
+        <payload_hash>249153322</payload_hash>
+        <record_name>name_00</record_name>
+        <reverted_from/>
+        <source>51b9ca6797dab110a9bc7e121153af66</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:45:53</sys_created_on>
+        <sys_id>c760534797a23110a9bc7e121153af31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf22158fd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:45:53</sys_updated_on>
+        <type>Question</type>
+        <update_guid>cf60534710a231103b310d37206f7930</update_guid>
+        <update_guid_history>cf60534710a231103b310d37206f7930:249153322,2dcecf839ca23110d4530beb1e2abe10:-2035430948,0cbb4f8fee623110a448611fbb79b855:720361831,6eabcb8feb6231104debad21a364033e:-1142248186,22abcb8ff8623110c605346a06955d3b:969440080</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="name_00">fad2db4b97a23110a9bc7e121153af24</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:56:31</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_question">sc_ic_question</sys_db_object>
+        <sys_id>5e0574b9429a4a8883031cc66f056810</sys_id>
+        <sys_metadata>6eabcb8f97623110a9bc7e121153af34</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>name_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_ic_question_6eabcb8f97623110a9bc7e121153af34</sys_update_name>
+        <sys_update_version display_value="sc_ic_question_6eabcb8f97623110a9bc7e121153af34">c760534797a23110a9bc7e121153af31</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:56:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

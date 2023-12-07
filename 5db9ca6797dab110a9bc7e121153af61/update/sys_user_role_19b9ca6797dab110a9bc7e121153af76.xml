@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_685589_test_ap_0.admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-10 11:38:11</sys_created_on>
+        <sys_id>19b9ca6797dab110a9bc7e121153af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685589_test_ap_0.admin</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sys_user_role_19b9ca6797dab110a9bc7e121153af76</sys_update_name>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-10 11:38:11</sys_updated_on>
+    </sys_user_role>
+</record_update>

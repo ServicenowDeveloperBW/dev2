@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="17d08ba497a63110a9bc7e121153af41" extends="service_task" label="Test Ap 0 X Catalog R" max_length="40" name="x_685589_test_ap_0_x_catalog_r" text_index="true" type="collection">
+        <element label="Agendamento" max_length="255" name="agendament0" type="glide_date_time"/>
+        <element label="Agendamento" max_length="255" name="agendamento" type="glide_date_time"/>
+    </element>
+</database>

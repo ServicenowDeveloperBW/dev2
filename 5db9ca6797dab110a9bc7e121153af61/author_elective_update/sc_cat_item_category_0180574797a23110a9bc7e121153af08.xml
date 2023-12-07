@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Test item">c980174797a23110a9bc7e121153affb</sc_cat_item>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:46:18</sys_created_on>
+        <sys_id>0180574797a23110a9bc7e121153af08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Test item</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_cat_item_category_0180574797a23110a9bc7e121153af08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:46:18</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_cat_item_category_0180574797a23110a9bc7e121153af08</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Test item">c980174797a23110a9bc7e121153affb</sc_cat_item><sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 13:46:18</sys_created_on><sys_id>0180574797a23110a9bc7e121153af08</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Departmental Services.Test item</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_cat_item_category_0180574797a23110a9bc7e121153af08</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 13:46:18</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>128780635</payload_hash>
+        <record_name>Departmental Services.Test item</record_name>
+        <reverted_from/>
+        <source>51b9ca6797dab110a9bc7e121153af66</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:46:18</sys_created_on>
+        <sys_id>cd80574797a23110a9bc7e121153af0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf221b95e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:46:18</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>8d80574775a23110b1af84929059550a</update_guid>
+        <update_guid_history>8d80574775a23110b1af84929059550a:128780635</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Departmental Services.Test item">fb805b4797a23110a9bc7e121153af86</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:46:29</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>23de63d008924730be861e1b849b6f90</sys_id>
+        <sys_metadata>0180574797a23110a9bc7e121153af08</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Test item</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_0180574797a23110a9bc7e121153af08</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_0180574797a23110a9bc7e121153af08">cd80574797a23110a9bc7e121153af0a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:46:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

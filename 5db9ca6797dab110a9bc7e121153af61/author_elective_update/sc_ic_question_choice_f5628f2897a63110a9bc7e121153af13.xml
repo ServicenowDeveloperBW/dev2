@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question_choice">
+    <sc_ic_question_choice action="DELETE">
+        <order>2</order>
+        <sc_ic_question display_value="contact_method_00">75628f2897a63110a9bc7e121153af0b</sc_ic_question>
+        <sys_class_name>sc_ic_question_choice</sys_class_name>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:49</sys_created_on>
+        <sys_id>f5628f2897a63110a9bc7e121153af13</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SMS</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_ic_question_choice_f5628f2897a63110a9bc7e121153af13</sys_update_name>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:50</sys_updated_on>
+        <text>SMS</text>
+        <value>SMS</value>
+    </sc_ic_question_choice>
+    <fx_price action="DELETE" query="id=f5628f2897a63110a9bc7e121153af13"/>
+    <sys_translated_text action="DELETE" query="documentkey=f5628f2897a63110a9bc7e121153af13"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_ic_question_choice_f5628f2897a63110a9bc7e121153af13</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question_choice"><sc_ic_question_choice action="INSERT_OR_UPDATE"><order>2</order><sc_ic_question display_value="contact_method_00">75628f2897a63110a9bc7e121153af0b</sc_ic_question><sys_class_name>sc_ic_question_choice</sys_class_name><sys_created_by>Brian.Wallace</sys_created_by><sys_created_on>2023-11-13 18:19:49</sys_created_on><sys_id>f5628f2897a63110a9bc7e121153af13</sys_id><sys_mod_count>1</sys_mod_count><sys_name>SMS</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_ic_question_choice_f5628f2897a63110a9bc7e121153af13</sys_update_name><sys_updated_by>Brian.Wallace</sys_updated_by><sys_updated_on>2023-11-13 18:19:50</sys_updated_on><text>SMS</text><value>SMS</value></sc_ic_question_choice><fx_price action="delete_multiple" query="id=f5628f2897a63110a9bc7e121153af13"/><sys_translated_text action="delete_multiple" query="documentkey=f5628f2897a63110a9bc7e121153af13"/></record_update>]]></payload>
+        <payload_hash>-115725543</payload_hash>
+        <record_name>SMS</record_name>
+        <reverted_from/>
+        <source>a25a194897aa3510a9bc7e121153afc5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:51</sys_created_on>
+        <sys_id>1a628f2897a63110a9bc7e121153af55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bc9e949790000001</sys_recorded_at>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:51</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>12628f288ca63110e2cca117664c4355</update_guid>
+        <update_guid_history>12628f288ca63110e2cca117664c4355:-115725543,7d628f2805a631100ec6e5cd8b75f514:-1391090504</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SMS">9eab8b8f97623110a9bc7e121153aff5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:25:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_question_choice">sc_ic_question_choice</sys_db_object>
+        <sys_id>6ee050eb1ab942649a4bfa5e3cff2910</sys_id>
+        <sys_metadata>f5628f2897a63110a9bc7e121153af13</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SMS</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent display_value="">75628f2897a63110a9bc7e121153af0b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_ic_question_choice_f5628f2897a63110a9bc7e121153af13</sys_update_name>
+        <sys_update_version display_value="sc_ic_question_choice_f5628f2897a63110a9bc7e121153af13">1a628f2897a63110a9bc7e121153af55</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:25:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

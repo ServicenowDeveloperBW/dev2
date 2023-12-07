@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>2</order>
+        <published_ref/>
+        <question display_value="New Multiple Choice">a6628f2897a63110a9bc7e121153afa0</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:52</sys_created_on>
+        <sys_id>a6628f2897a63110a9bc7e121153afd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Label 3</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>question_choice_a6628f2897a63110a9bc7e121153afd1</sys_update_name>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:52</sys_updated_on>
+        <text>Label 3</text>
+        <value>Value 3</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=a6628f2897a63110a9bc7e121153afd1"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>a6628f2897a63110a9bc7e121153afd1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:52</sys_created_on>
+        <sys_id>be628f2897a63110a9bc7e121153aff1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:52</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>a6628f2897a63110a9bc7e121153afd1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:52</sys_created_on>
+        <sys_id>76628f2897a63110a9bc7e121153aff1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:52</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>question_choice_a6628f2897a63110a9bc7e121153afd1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>2</order><published_ref/><question display_value="New Multiple Choice">a6628f2897a63110a9bc7e121153afa0</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>Brian.Wallace</sys_created_by><sys_created_on>2023-11-13 18:19:52</sys_created_on><sys_id>a6628f2897a63110a9bc7e121153afd1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Label 3</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>question_choice_a6628f2897a63110a9bc7e121153afd1</sys_update_name><sys_updated_by>Brian.Wallace</sys_updated_by><sys_updated_on>2023-11-13 18:19:52</sys_updated_on><text>Label 3</text><value>Value 3</value></question_choice><fx_price action="delete_multiple" query="id=a6628f2897a63110a9bc7e121153afd1"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>a6628f2897a63110a9bc7e121153afd1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>Brian.Wallace</sys_created_by><sys_created_on>2023-11-13 18:19:52</sys_created_on><sys_id>be628f2897a63110a9bc7e121153aff1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Brian.Wallace</sys_updated_by><sys_updated_on>2023-11-13 18:19:52</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>a6628f2897a63110a9bc7e121153afd1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>Brian.Wallace</sys_created_by><sys_created_on>2023-11-13 18:19:52</sys_created_on><sys_id>76628f2897a63110a9bc7e121153aff1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Brian.Wallace</sys_updated_by><sys_updated_on>2023-11-13 18:19:52</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-430722550</payload_hash>
+        <record_name>Label 3</record_name>
+        <reverted_from/>
+        <source>a25a194897aa3510a9bc7e121153afc5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:52</sys_created_on>
+        <sys_id>b2628f2897a63110a9bc7e121153aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bc9e950640000001</sys_recorded_at>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:52</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>f6628f28b9a63110e753e9915aaaadf3</update_guid>
+        <update_guid_history>f6628f28b9a63110e753e9915aaaadf3:-430722550</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Label 3">9d911bc797a23110a9bc7e121153af27</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:50:57</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>01ca4af457e045b89a9103491ac2ca64</sys_id>
+        <sys_metadata>a6628f2897a63110a9bc7e121153afd1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Label 3</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>question_choice_a6628f2897a63110a9bc7e121153afd1</sys_update_name>
+        <sys_update_version display_value="question_choice_a6628f2897a63110a9bc7e121153afd1">b2628f2897a63110a9bc7e121153aff4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:50:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

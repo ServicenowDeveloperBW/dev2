@@ -18,7 +18,9 @@
 	var name = g_user.getFullName();
 
 	g_form.addInfoMessage("you have logged in as " +name);
+	
 
+	//
 
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -27,15 +29,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5c2b1584976e3510a9bc7e121153af35</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>Test_client_script</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
         <sys_update_name>sys_script_client_5c2b1584976e3510a9bc7e121153af35</sys_update_name>
-        <sys_updated_by>Brian.Wallace</sys_updated_by>
-        <sys_updated_on>2023-11-11 21:47:33</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-05 19:01:38</sys_updated_on>
         <table>incident</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>

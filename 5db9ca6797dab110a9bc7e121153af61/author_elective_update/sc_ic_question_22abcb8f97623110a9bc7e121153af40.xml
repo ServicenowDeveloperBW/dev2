@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question">
+    <sc_ic_question action="DELETE">
+        <base_type>6</base_type>
+        <default_value/>
+        <help_text>(99)996969099</help_text>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>telefone_00</name>
+        <order>1</order>
+        <policy_payload>{"unrequire,require_sometimes,require":{"sys_id":"de60134797a23110a9bc7e121153af1c","applies":"all_apply","action_sys_id":"5260134797a23110a9bc7e121153af26","name":"","conditions":[],"operation":"unrequire"},"show,show_sometimes":{"sys_id":"9260134797a23110a9bc7e121153af39","applies":"all_apply","action_sys_id":"a260134797a23110a9bc7e121153af5b","name":"","conditions":[],"operation":"show"}}</policy_payload>
+        <preconfigured>false</preconfigured>
+        <question_text>Telefone</question_text>
+        <read_only>false</read_only>
+        <read_only_question_type>false</read_only_question_type>
+        <sc_ic_column display_value="">f1624f2897a63110a9bc7e121153afeb</sc_ic_column>
+        <sc_ic_item_staging display_value="Test item">1962c72897a63110a9bc7e121153af26</sc_ic_item_staging>
+        <sc_ic_question_class display_value="Single Line Text">027ffb11eb5211003623666cd206fe1f</sc_ic_question_class>
+        <sc_ic_question_type display_value="-- Create your own Single Line Text  --">ee4eb0c0eb2211003623666cd206feac</sc_ic_question_type>
+        <sc_ic_section display_value="Section 1">e5624f2897a63110a9bc7e121153afda</sc_ic_section>
+        <scale_max>0</scale_max>
+        <scale_min>0</scale_min>
+        <sys_class_name>sc_ic_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:25:06</sys_created_on>
+        <sys_id>22abcb8f97623110a9bc7e121153af40</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>telefone_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_ic_question_22abcb8f97623110a9bc7e121153af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:45:51</sys_updated_on>
+    </sc_ic_question>
+    <fx_price action="DELETE" query="id=22abcb8f97623110a9bc7e121153af40"/>
+    <sys_translated_text action="DELETE" query="documentkey=22abcb8f97623110a9bc7e121153af40"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_ic_question_22abcb8f97623110a9bc7e121153af40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question"><sc_ic_question action="INSERT_OR_UPDATE"><base_type>6</base_type><default_value/><help_text>(99)996969099</help_text><mandatory>false</mandatory><max_length>255</max_length><name>telefone_00</name><order>1</order><policy_payload>{"unrequire,require_sometimes,require":{"sys_id":"de60134797a23110a9bc7e121153af1c","applies":"all_apply","action_sys_id":"5260134797a23110a9bc7e121153af26","name":"","conditions":[],"operation":"unrequire"},"show,show_sometimes":{"sys_id":"9260134797a23110a9bc7e121153af39","applies":"all_apply","action_sys_id":"a260134797a23110a9bc7e121153af5b","name":"","conditions":[],"operation":"show"}}</policy_payload><preconfigured>false</preconfigured><question_text>Telefone</question_text><read_only>false</read_only><read_only_question_type>false</read_only_question_type><sc_ic_column display_value="">f1624f2897a63110a9bc7e121153afeb</sc_ic_column><sc_ic_item_staging display_value="Test item">1962c72897a63110a9bc7e121153af26</sc_ic_item_staging><sc_ic_question_class display_value="Single Line Text">027ffb11eb5211003623666cd206fe1f</sc_ic_question_class><sc_ic_question_type display_value="-- Create your own Single Line Text  --">ee4eb0c0eb2211003623666cd206feac</sc_ic_question_type><sc_ic_section display_value="Section 1">e5624f2897a63110a9bc7e121153afda</sc_ic_section><scale_max>0</scale_max><scale_min>0</scale_min><sys_class_name>sc_ic_question</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 13:25:06</sys_created_on><sys_id>22abcb8f97623110a9bc7e121153af40</sys_id><sys_mod_count>4</sys_mod_count><sys_name>telefone_00</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_ic_question_22abcb8f97623110a9bc7e121153af40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 13:45:51</sys_updated_on></sc_ic_question><fx_price action="delete_multiple" query="id=22abcb8f97623110a9bc7e121153af40"/><sys_translated_text action="delete_multiple" query="documentkey=22abcb8f97623110a9bc7e121153af40"/></record_update>]]></payload>
+        <payload_hash>490301279</payload_hash>
+        <record_name>telefone_00</record_name>
+        <reverted_from/>
+        <source>51b9ca6797dab110a9bc7e121153af66</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:45:51</sys_created_on>
+        <sys_id>2660134797a23110a9bc7e121153af71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf2214fd00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:45:51</sys_updated_on>
+        <type>Question</type>
+        <update_guid>2e601347cfa231105f877b3f19ee2070</update_guid>
+        <update_guid_history>2e601347cfa231105f877b3f19ee2070:490301279,38ce8f8316a2311067f585a56bfc953f:1772324219,0cbb0f8f4d623110b5bce428e0f38de5:-276283176,22abcb8f6462311087a07b2a50073245:794259014,6aabcb8fa86231108eab52e826a8d041:-1998025840</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="telefone_00">f6d2db4b97a23110a9bc7e121153af04</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:56:31</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_question">sc_ic_question</sys_db_object>
+        <sys_id>7dcae1d8a93e49499f678b705c11da69</sys_id>
+        <sys_metadata>22abcb8f97623110a9bc7e121153af40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>telefone_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_ic_question_22abcb8f97623110a9bc7e121153af40</sys_update_name>
+        <sys_update_version display_value="sc_ic_question_22abcb8f97623110a9bc7e121153af40">2660134797a23110a9bc7e121153af71</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:56:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

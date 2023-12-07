@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question">
+    <sc_ic_question action="DELETE">
+        <base_type>9</base_type>
+        <default_value/>
+        <help_text/>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>selecione_a_data_de_agendamento_00</name>
+        <order>2</order>
+        <policy_payload>{"unrequire,require_sometimes,require":{"sys_id":"6e60134797a23110a9bc7e121153af71","applies":"all_apply","action_sys_id":"ee60134797a23110a9bc7e121153af7a","name":"","conditions":[],"operation":"unrequire"},"show,show_sometimes":{"sys_id":"ee60134797a23110a9bc7e121153af8d","applies":"all_apply","action_sys_id":"6260134797a23110a9bc7e121153af97","name":"","conditions":[],"operation":"show"}}</policy_payload>
+        <preconfigured>false</preconfigured>
+        <question_text>Selecione a data de agendamento.</question_text>
+        <read_only>false</read_only>
+        <read_only_question_type>false</read_only_question_type>
+        <sc_ic_column display_value="">7eabcb8f97623110a9bc7e121153af6a</sc_ic_column>
+        <sc_ic_item_staging display_value="Test item">1962c72897a63110a9bc7e121153af26</sc_ic_item_staging>
+        <sc_ic_question_class display_value="Date">1cfffb11eb5211003623666cd206fe76</sc_ic_question_class>
+        <sc_ic_question_type display_value="-- Create your own Date  --">d05005c0eb2211003623666cd206feb7</sc_ic_question_type>
+        <sc_ic_section display_value="Section 2 (Information about locality)">a2abcb8f97623110a9bc7e121153af4c</sc_ic_section>
+        <scale_max>0</scale_max>
+        <scale_min>0</scale_min>
+        <sys_class_name>sc_ic_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:38:32</sys_created_on>
+        <sys_id>23be0f8397a23110a9bc7e121153af62</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>selecione_a_data_de_agendamento_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_ic_question_23be0f8397a23110a9bc7e121153af62</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:45:51</sys_updated_on>
+    </sc_ic_question>
+    <fx_price action="DELETE" query="id=23be0f8397a23110a9bc7e121153af62"/>
+    <sys_translated_text action="DELETE" query="documentkey=23be0f8397a23110a9bc7e121153af62"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_ic_question_23be0f8397a23110a9bc7e121153af62</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question"><sc_ic_question action="INSERT_OR_UPDATE"><base_type>9</base_type><default_value/><help_text/><mandatory>false</mandatory><max_length>255</max_length><name>selecione_a_data_de_agendamento_00</name><order>2</order><policy_payload>{"unrequire,require_sometimes,require":{"sys_id":"6e60134797a23110a9bc7e121153af71","applies":"all_apply","action_sys_id":"ee60134797a23110a9bc7e121153af7a","name":"","conditions":[],"operation":"unrequire"},"show,show_sometimes":{"sys_id":"ee60134797a23110a9bc7e121153af8d","applies":"all_apply","action_sys_id":"6260134797a23110a9bc7e121153af97","name":"","conditions":[],"operation":"show"}}</policy_payload><preconfigured>false</preconfigured><question_text>Selecione a data de agendamento.</question_text><read_only>false</read_only><read_only_question_type>false</read_only_question_type><sc_ic_column display_value="">7eabcb8f97623110a9bc7e121153af6a</sc_ic_column><sc_ic_item_staging display_value="Test item">1962c72897a63110a9bc7e121153af26</sc_ic_item_staging><sc_ic_question_class display_value="Date">1cfffb11eb5211003623666cd206fe76</sc_ic_question_class><sc_ic_question_type display_value="-- Create your own Date  --">d05005c0eb2211003623666cd206feb7</sc_ic_question_type><sc_ic_section display_value="Section 2 (Information about locality)">a2abcb8f97623110a9bc7e121153af4c</sc_ic_section><scale_max>0</scale_max><scale_min>0</scale_min><sys_class_name>sc_ic_question</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 13:38:32</sys_created_on><sys_id>23be0f8397a23110a9bc7e121153af62</sys_id><sys_mod_count>3</sys_mod_count><sys_name>selecione_a_data_de_agendamento_00</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_ic_question_23be0f8397a23110a9bc7e121153af62</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 13:45:51</sys_updated_on></sc_ic_question><fx_price action="delete_multiple" query="id=23be0f8397a23110a9bc7e121153af62"/><sys_translated_text action="delete_multiple" query="documentkey=23be0f8397a23110a9bc7e121153af62"/></record_update>]]></payload>
+        <payload_hash>-692341116</payload_hash>
+        <record_name>selecione_a_data_de_agendamento_00</record_name>
+        <reverted_from/>
+        <source>51b9ca6797dab110a9bc7e121153af66</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:45:51</sys_created_on>
+        <sys_id>a260134797a23110a9bc7e121153afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf22152770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:45:51</sys_updated_on>
+        <type>Question</type>
+        <update_guid>aa60134754a23110e7859a3301373cac</update_guid>
+        <update_guid_history>aa60134754a23110e7859a3301373cac:-692341116,89ce8f83dea23110004873622dfdde96:1354031088,63be0f8302a23110c6a1f82578a5db67:1873174823,abbe0f83b9a23110d89db40f2bdd1163:-1220468111</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="selecione_a_data_de_agendamento_00">b2d2db4b97a23110a9bc7e121153af0c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:56:31</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_question">sc_ic_question</sys_db_object>
+        <sys_id>17db31645b5649c890c5f1f8c7688c40</sys_id>
+        <sys_metadata>23be0f8397a23110a9bc7e121153af62</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>selecione_a_data_de_agendamento_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_ic_question_23be0f8397a23110a9bc7e121153af62</sys_update_name>
+        <sys_update_version display_value="sc_ic_question_23be0f8397a23110a9bc7e121153af62">a260134797a23110a9bc7e121153afad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:56:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

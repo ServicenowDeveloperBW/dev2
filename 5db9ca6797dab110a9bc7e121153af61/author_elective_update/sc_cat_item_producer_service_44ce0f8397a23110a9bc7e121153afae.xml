@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer_service">
+    <sc_cat_item_producer_service action="DELETE">
+        <access_type>restricted</access_type>
+        <active>false</active>
+        <allow_edit>false</allow_edit>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <fulfillment_user display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</fulfillment_user>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_no_picture</mobile_picture_type>
+        <model/>
+        <name>Test item</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <post_insert_script><![CDATA[/**
+* This script is executed after the record is generated. 
+* `current` Is the GlideRecord produced by Record Producer. Use `current.update()` to update the record
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]></post_insert_script>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=44ce0f8397a23110a9bc7e121153afae&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <processing_workflow>{"approval_notifications":[],"assignments":{"sys_user":{"display":"","value":""},"sys_user_group":{"display":"","value":""}},"approvals":[],"completion_notifications":[{"display":"the requestor","type":"field","value":"opened_by"}],"submission_notifications":[{"display":"the requestor","type":"field","value":"opened_by"}]}</processing_workflow>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <save_options/>
+        <save_script><![CDATA[/**
+* This script is executed at every step save in Catalog Builder. 
+* This script is executed before `Script` is executed.
+* `current` Is the GlideRecord produced by Record Producer. 
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]></save_script>
+        <sc_catalogs/>
+        <sc_ic_item_staging display_value="Test item">1962c72897a63110a9bc7e121153af26</sc_ic_item_staging>
+        <sc_ic_version>10</sc_ic_version>
+        <sc_template/>
+        <script><![CDATA[var targetRec = new GlideRecord('x_685589_test_ap_0_x_catalog_r');
+var canRead = targetRec.canRead();
+current.short_description = 'Test item request from ' + gs.getUserDisplayName();
+current.service = '44ce0f8397a23110a9bc7e121153afae';
+if (!canRead)
+   producer.redirect = 'catalog_home.do?sysparm_view=catalog_default';
+if (submission_message)
+   gs.addInfoMessage(submission_message);
+else
+   gs.addInfoMessage('Your Test item request has been submitted');
+current.assigned_to = '5137153cc611227c000bbd1bd8cd2007'; // David Loo]]></script>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <submission_message/>
+        <sys_class_name>sc_cat_item_producer_service</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:38:35</sys_created_on>
+        <sys_id>44ce0f8397a23110a9bc7e121153afae</sys_id>
+        <sys_mod_count>64</sys_mod_count>
+        <sys_name>Test item</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_cat_item_producer_service_44ce0f8397a23110a9bc7e121153afae</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:50:52</sys_updated_on>
+        <table_name>x_685589_test_ap_0_x_catalog_r</table_name>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>65</version>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="Item Designer Workflow">9f80f730c30311003d2ae219cdba8f7b</workflow>
+    </sc_cat_item_producer_service>
+    <sys_translated_text action="DELETE" query="documentkey=44ce0f8397a23110a9bc7e121153afae"/>
+    <fx_price action="DELETE" query="id=44ce0f8397a23110a9bc7e121153afae"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>44ce0f8397a23110a9bc7e121153afae</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:38:35</sys_created_on>
+        <sys_id>8cce0f8397a23110a9bc7e121153afaf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:38:38</sys_updated_on>
+        <table>sc_cat_item_producer_service</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>44ce0f8397a23110a9bc7e121153afae</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:38:35</sys_created_on>
+        <sys_id>4cce0f8397a23110a9bc7e121153afb0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:38:38</sys_updated_on>
+        <table>sc_cat_item_producer_service</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_cat_item_producer_service_44ce0f8397a23110a9bc7e121153afae</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer_service"&gt;&lt;sc_cat_item_producer_service action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;false&lt;/active&gt;&lt;allow_edit&gt;false&lt;/allow_edit&gt;&lt;availability&gt;on_both&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category/&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description/&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;fulfillment_user display_value="David Loo"&gt;5137153cc611227c000bbd1bd8cd2007&lt;/fulfillment_user&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;false&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_no_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Test item&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture/&gt;&lt;post_insert_script&gt;&lt;![CDATA[/**
+* This script is executed after the record is generated. 
+* `current` Is the GlideRecord produced by Record Producer. Use `current.update()` to update the record
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]&gt;&lt;/post_insert_script&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=44ce0f8397a23110a9bc7e121153afae&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;processing_workflow&gt;{"approval_notifications":[],"assignments":{"sys_user":{"display":"","value":""},"sys_user_group":{"display":"","value":""}},"approvals":[],"completion_notifications":[{"display":"the requestor","type":"field","value":"opened_by"}],"submission_notifications":[{"display":"the requestor","type":"field","value":"opened_by"}]}&lt;/processing_workflow&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;save_options/&gt;&lt;save_script&gt;&lt;![CDATA[/**
+* This script is executed at every step save in Catalog Builder. 
+* This script is executed before `Script` is executed.
+* `current` Is the GlideRecord produced by Record Producer. 
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]&gt;&lt;/save_script&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging display_value="Test item"&gt;1962c72897a63110a9bc7e121153af26&lt;/sc_ic_item_staging&gt;&lt;sc_ic_version&gt;10&lt;/sc_ic_version&gt;&lt;sc_template/&gt;&lt;script&gt;&lt;![CDATA[var targetRec = new GlideRecord('x_685589_test_ap_0_x_catalog_r');
+var canRead = targetRec.canRead();
+current.short_description = 'Test item request from ' + gs.getUserDisplayName();
+current.service = '44ce0f8397a23110a9bc7e121153afae';
+if (!canRead)
+   producer.redirect = 'catalog_home.do?sysparm_view=catalog_default';
+if (submission_message)
+   gs.addInfoMessage(submission_message);
+else
+   gs.addInfoMessage('Your Test item request has been submitted');
+current.assigned_to = '5137153cc611227c000bbd1bd8cd2007'; // David Loo]]&gt;&lt;/script&gt;&lt;short_description/&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;submission_message/&gt;&lt;sys_class_name&gt;sc_cat_item_producer_service&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-21 13:38:35&lt;/sys_created_on&gt;&lt;sys_id&gt;44ce0f8397a23110a9bc7e121153afae&lt;/sys_id&gt;&lt;sys_mod_count&gt;64&lt;/sys_mod_count&gt;&lt;sys_name&gt;Test item&lt;/sys_name&gt;&lt;sys_package display_value="Test Application " source="x_685589_test_ap_0"&gt;5db9ca6797dab110a9bc7e121153af61&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Test Application "&gt;5db9ca6797dab110a9bc7e121153af61&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_service_44ce0f8397a23110a9bc7e121153afae&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-21 13:50:52&lt;/sys_updated_on&gt;&lt;table_name&gt;x_685589_test_ap_0_x_catalog_r&lt;/table_name&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;65&lt;/version&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow display_value="Item Designer Workflow"&gt;9f80f730c30311003d2ae219cdba8f7b&lt;/workflow&gt;&lt;/sc_cat_item_producer_service&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=44ce0f8397a23110a9bc7e121153afae"/&gt;&lt;fx_price action="delete_multiple" query="id=44ce0f8397a23110a9bc7e121153afae"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;44ce0f8397a23110a9bc7e121153afae&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-21 13:38:35&lt;/sys_created_on&gt;&lt;sys_id&gt;8cce0f8397a23110a9bc7e121153afaf&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-21 13:38:38&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer_service&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;44ce0f8397a23110a9bc7e121153afae&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-21 13:38:35&lt;/sys_created_on&gt;&lt;sys_id&gt;4cce0f8397a23110a9bc7e121153afb0&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-21 13:38:38&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer_service&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1799815648</payload_hash>
+        <record_name>Test item</record_name>
+        <reverted_from/>
+        <source>51b9ca6797dab110a9bc7e121153af66</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-21 13:50:52</sys_created_on>
+        <sys_id>409157c797a23110a9bc7e121153afb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf225e85f0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:50:52</sys_updated_on>
+        <type>Service</type>
+        <update_guid>089157c71aa231106472acb624bc96b6</update_guid>
+        <update_guid_history>089157c71aa231106472acb624bc96b6:-1799815648,cc9157c716a2311005dd8441c1b44fa6:1921917953,849157c78ea2311094f11b4f136c1e97:1348684258,7f8157c787a2311010f01b7bd7719787:775450563,378157c76ea23110b102cf6dd1fd3178:202216868,fb8157c71ba2311004a11bee27960168:-371016827,b38157c7aea231101e8da4c535b86a59:-97256229,7b8157c7e7a231109685aef819985949:-670489924,238157c7a2a2311067a96da2d557043a:-1243723619,238157c769a23110ce81fdb4b72e611e:-1816957314,e78157c718a231107225f37a07ab610e:1904776287,238117c7d0a231106e8be2da46c0a4ff:1331542592,a78117c76ba231109bae9d6aab8bc9ee:758308897,d38117c741a23110ec116a7fdad634df:185075202,61609f07faa23110ed8fbceaf3a82be2:448493020,4ace03c320a231102e6e810b4a50ca2e:275788823,0ece03c307a23110a35991f7ae661024:-297444872,0ace03c3f6a231103519e6d2b5574b1b:-870678567,06ce03c322a231107fef564fe2d59611:-1443912262,c6ce03c3e0a2311038c7c5a479b69e07:-2017145957,c2cecf83dea23110e080a2755aa5c2fe:1704587644,8ececf83cba231109a86550e97c571bf:1131353949,42cecf8314a23110f201842c05cd8fb6:558120254,0ececf83aca23110e68a2863e04677ac:-15113441,c6cecf83dca2311076385e4a5433a2a2:-588347136,b9cecf83e3a23110591f6498f4c3ec98:-314586538,b5cecf83cba23110112bd7438ccab58f:-887820233,7dcecf836ba2311075521f75995bd882:-1461053928,31cecf83c0a231105f5ba399cc334f79:-2034287623,f9cecf83f7a231108a5bffed5b41e86f:1687445978,f9cecf833da23110b74cbb19eb4cc866:1114212283,adcecf83b5a23110584e74d77b7e6e5c:540978588,69cecf83c1a23110edb2b71a29dd3953:-32255107,edcecf8382a23110edcea3798f099c46:-605488802,a1cecf8353a231105b6f67c6e701243d:-1178722497,6dcecf83b7a2311004d398f9033fb533:-904961899,6dcecf8385a23110b795d40eae9f522a:-1478195594,21cecf8340a231105d5d7855cf132121:-2051429289,e9cecf83f7a23110b175be7f5f967917:1670304312,51cecf8381a23110d5f540a8d38f2d0b:1097070617,15cecf8389a231104ddb3feff531a901:523836922,ddce8f83d3a23110fac8f084420c5af7:-49396773,ddce8f83e4a23110ba9a4f9e784df7ee:-622630468,91ce8f83b6a231101edeb7fd2316f1e5:-1195864163,5dce8f83e7a2311060780f4765ab8adb:-1769097858,9dce8f831ca23110a0c82d174b841ccd:-1495337260,51ce8f83c2a23110ff86a170628e6fc4:-2068570955,5dce8f83efa23110b09e31a6e0eb7eba:1653162646,49ce8f8357a23110742b39aa0548c8b0:1079928951,0dce8f83f5a231109ce737c0fa26dda6:506695256,09ce8f8303a23110cac1b870112c0d9d:-66538439,89ce8f8342a23110e1e189de0e53828f:-639772134,4dce8f8357a23110754ec4dd98190f85:-1213005829,49ce8f83aba23110af5ee3c4c673767c:-1786239524,45ce8f832da231100af55c79c8df5372:1935494077,09ce8f839aa231100d39db2c5711b568:1849359287,85ce8f8368a231101a7000453a3cdc46:1276125592,7cce8f8348a231106044e9f900c02b39:702891897,30ce8f8321a2311047c3acfa2b7e2c30:129658202,f8ce8f8386a231107d394b7499976826:-443575493,78ce8f8320a231107492338d20f53f1d:-1016809188,30ce8f83e9a2311040cecd63802f9107:-1590042883,b4ce4f8346a231101a36d3332a47cbfd:2131690718,f0ce4f8364a23110b756a66e7b564cf6:1558457023,60ce4f83aaa23110f9d382e5a10cffe0:235734667,acce4f83a5a23110f27fa0c79bbfa5cd:-337499028,68ce4f83f7a2311024e77e50a450fcbb:-910732723,2cce4f8327a231107ba39bcc890be6a9:-1483966418,e4ce4f83d6a23110145438a67e33af98:-2057200113,60ce4f83d7a23110dba8762aa679166f:-1743120603,94ce4f83b1a231107558d990668b465f:1978612998,dcce4f8339a231107bc62f29488f354f:1405379303,d4ce4f8342a23110c5285dbc4ab84841:832145608,14ce4f83c0a231102901d794d34a7f33:258911913,10ce4f83e8a231101d89888f23a7ad25:-314321782,80ce4f83b2a23110fbe38a4215404e17:-887555477,80ce4f8322a231106abddbc74b805e06:-1460789172,00ce0f83f6a23110b255a0fa47f7c4fa:-1728463910,c4ce0f836ca231109a09ec21b78554e0:1052118039</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test item">d49197c797a23110a9bc7e121153af1e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:50:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_producer_service">sc_cat_item_producer_service</sys_db_object>
+        <sys_id>004c9079a94c4a5f984a4ba2c1adce69</sys_id>
+        <sys_metadata>44ce0f8397a23110a9bc7e121153afae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test item</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent display_value="Test Ap 0 X Catalog R">17d08ba497a63110a9bc7e121153af41</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_cat_item_producer_service_44ce0f8397a23110a9bc7e121153afae</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_producer_service_44ce0f8397a23110a9bc7e121153afae">409157c797a23110a9bc7e121153afb7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:50:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

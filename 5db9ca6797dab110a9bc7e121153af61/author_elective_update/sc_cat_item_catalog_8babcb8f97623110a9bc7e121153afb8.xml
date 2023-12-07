@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Test item">8bab0f0f97623110a9bc7e121153afa8</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:25:08</sys_created_on>
+        <sys_id>8babcb8f97623110a9bc7e121153afb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Test item</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8babcb8f97623110a9bc7e121153afb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:25:08</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_cat_item_catalog_8babcb8f97623110a9bc7e121153afb8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Test item">8bab0f0f97623110a9bc7e121153afa8</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 13:25:08</sys_created_on><sys_id>8babcb8f97623110a9bc7e121153afb8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Test item</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_cat_item_catalog_8babcb8f97623110a9bc7e121153afb8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 13:25:08</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-589429719</payload_hash>
+        <record_name>Service Catalog.Test item</record_name>
+        <reverted_from/>
+        <source>51b9ca6797dab110a9bc7e121153af66</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:25:08</sys_created_on>
+        <sys_id>87abcb8f97623110a9bc7e121153afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf20e59190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:25:08</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>cbabcb8fd2623110d179bef4a0f25fbb</update_guid>
+        <update_guid_history>cbabcb8fd2623110d179bef4a0f25fbb:-589429719</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Test item">1c9197c797a23110a9bc7e121153af26</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:50:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2e9501cd00e246c097fa2d718cdbd9e1</sys_id>
+        <sys_metadata>8babcb8f97623110a9bc7e121153afb8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Test item</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent display_value="">8bab0f0f97623110a9bc7e121153afa8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_8babcb8f97623110a9bc7e121153afb8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_8babcb8f97623110a9bc7e121153afb8">87abcb8f97623110a9bc7e121153afbc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:50:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

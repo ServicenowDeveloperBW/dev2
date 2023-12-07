@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Test Ui builder">e1c16f3797163510a9bc7e121153afbf</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 12:41:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2fd16b7797163510a9bc7e121153af42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sys_ux_page_property_2fd16b7797163510a9bc7e121153af42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 12:41:51</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_685589_test_ap_0.e1c16f3797163510a9bc7e121153afbf.root.chrome_header</unique_name>
+        <value>{"privatePage":{"userPrefsEnabled":false,"searchEnabled":false,"currentScreenLinkConfiguration":{},"globalTools":{"collapsingMenuId":0,"primaryItems":[],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"searchEnabled":false,"logoRoute":{},"actionButtons":[]}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=2fd16b7797163510a9bc7e121153af42"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sys_ux_page_property_2fd16b7797163510a9bc7e121153af42</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="Test Ui builder">e1c16f3797163510a9bc7e121153afbf</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-11 12:41:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>2fd16b7797163510a9bc7e121153af42</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sys_ux_page_property_2fd16b7797163510a9bc7e121153af42</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-11 12:41:51</sys_updated_on><type>json</type><unique_name>x_685589_test_ap_0.e1c16f3797163510a9bc7e121153afbf.root.chrome_header</unique_name><value>{"privatePage":{"userPrefsEnabled":false,"searchEnabled":false,"currentScreenLinkConfiguration":{},"globalTools":{"collapsingMenuId":0,"primaryItems":[],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"searchEnabled":false,"logoRoute":{},"actionButtons":[]}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=2fd16b7797163510a9bc7e121153af42"/></record_update>]]></payload>
+        <payload_hash>-1749962511</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>f9a1dfbf97923510a9bc7e121153afff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 12:41:51</sys_created_on>
+        <sys_id>f7d16b7797163510a9bc7e121153af44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bbe6722380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 12:41:51</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>3fd16b77c9163510754896a70d4dfc43</update_guid>
+        <update_guid_history>3fd16b77c9163510754896a70d4dfc43:-1749962511</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 12:51:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>18c59615d4a74f689b5fd8c972ead9a4</sys_id>
+        <sys_metadata>2fd16b7797163510a9bc7e121153af42</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_2fd16b7797163510a9bc7e121153af42</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_2fd16b7797163510a9bc7e121153af42">f7d16b7797163510a9bc7e121153af44</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 12:51:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

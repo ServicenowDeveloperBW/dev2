@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
     <sys_ux_screen action="INSERT_OR_UPDATE">
         <active>true</active>
-        <app_config display_value="Test Ui builder">5dc16f3797163510a9bc7e121153afbc</app_config>
+        <app_config/>
         <description/>
         <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings/>
-        <macroponent display_value="Standard record page">7f82e7b797163510a9bc7e121153af1b</macroponent>
+        <macroponent display_value="Variant">7f82e7b797163510a9bc7e121153af1b</macroponent>
         <macroponent_config/>
         <name>Variant</name>
         <order>0</order>

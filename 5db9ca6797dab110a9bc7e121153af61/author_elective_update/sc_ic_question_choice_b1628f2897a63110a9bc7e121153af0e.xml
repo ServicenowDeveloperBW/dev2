@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question_choice">
+    <sc_ic_question_choice action="DELETE">
+        <order>0</order>
+        <sc_ic_question display_value="contact_method_00">75628f2897a63110a9bc7e121153af0b</sc_ic_question>
+        <sys_class_name>sc_ic_question_choice</sys_class_name>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:49</sys_created_on>
+        <sys_id>b1628f2897a63110a9bc7e121153af0e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Telephone</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_ic_question_choice_b1628f2897a63110a9bc7e121153af0e</sys_update_name>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:50</sys_updated_on>
+        <text>Telephone</text>
+        <value>Telephone</value>
+    </sc_ic_question_choice>
+    <fx_price action="DELETE" query="id=b1628f2897a63110a9bc7e121153af0e"/>
+    <sys_translated_text action="DELETE" query="documentkey=b1628f2897a63110a9bc7e121153af0e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_ic_question_choice_b1628f2897a63110a9bc7e121153af0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question_choice"><sc_ic_question_choice action="INSERT_OR_UPDATE"><order>0</order><sc_ic_question display_value="contact_method_00">75628f2897a63110a9bc7e121153af0b</sc_ic_question><sys_class_name>sc_ic_question_choice</sys_class_name><sys_created_by>Brian.Wallace</sys_created_by><sys_created_on>2023-11-13 18:19:49</sys_created_on><sys_id>b1628f2897a63110a9bc7e121153af0e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Telephone</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_ic_question_choice_b1628f2897a63110a9bc7e121153af0e</sys_update_name><sys_updated_by>Brian.Wallace</sys_updated_by><sys_updated_on>2023-11-13 18:19:50</sys_updated_on><text>Telephone</text><value>Telephone</value></sc_ic_question_choice><fx_price action="delete_multiple" query="id=b1628f2897a63110a9bc7e121153af0e"/><sys_translated_text action="delete_multiple" query="documentkey=b1628f2897a63110a9bc7e121153af0e"/></record_update>]]></payload>
+        <payload_hash>1020354416</payload_hash>
+        <record_name>Telephone</record_name>
+        <reverted_from/>
+        <source>a25a194897aa3510a9bc7e121153afc5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:50</sys_created_on>
+        <sys_id>12628f2897a63110a9bc7e121153af4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bc9e949170000001</sys_recorded_at>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:50</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>1a628f2886a63110623f96f916b52b4e</update_guid>
+        <update_guid_history>1a628f2886a63110623f96f916b52b4e:1020354416,79628f28b8a63110dfcf18d97449f40f:422708943</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Telephone">56ab8b8f97623110a9bc7e121153aff0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:25:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_question_choice">sc_ic_question_choice</sys_db_object>
+        <sys_id>2c5d71d34a69485e829f8257f1ddf384</sys_id>
+        <sys_metadata>b1628f2897a63110a9bc7e121153af0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telephone</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent display_value="">75628f2897a63110a9bc7e121153af0b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_ic_question_choice_b1628f2897a63110a9bc7e121153af0e</sys_update_name>
+        <sys_update_version display_value="sc_ic_question_choice_b1628f2897a63110a9bc7e121153af0e">12628f2897a63110a9bc7e121153af4f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:25:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_item_staging">
+    <sc_ic_item_staging action="DELETE">
+        <active>true</active>
+        <aprvl_defn_changed>false</aprvl_defn_changed>
+        <availability>on_both</availability>
+        <counter>12</counter>
+        <description/>
+        <desktop_image/>
+        <entitlements>{"cmn_location":[],"sys_user_group":[],"cmn_department":[]}</entitlements>
+        <fulfillment_group/>
+        <fulfillment_user/>
+        <item_type>sc_cat_item_producer_service</item_type>
+        <layout_changed>false</layout_changed>
+        <mobile_image/>
+        <name>Test item</name>
+        <recurring_frequency/>
+        <sc_cat_item display_value="Test item">25609f0797a23110a9bc7e121153afe3</sc_cat_item>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_categories>93d043a497a63110a9bc7e121153af3a,95fc11615f1211001c9b2572f2b477c6</sc_categories>
+        <short_description/>
+        <state>published</state>
+        <submission_message/>
+        <sys_class_name>sc_ic_item_staging</sys_class_name>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:47</sys_created_on>
+        <sys_id>1962c72897a63110a9bc7e121153af26</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Test item</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_ic_item_staging_1962c72897a63110a9bc7e121153af26</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:45:30</sys_updated_on>
+        <table_name>x_685589_test_ap_0_x_catalog_r</table_name>
+        <task_defn_changed>false</task_defn_changed>
+        <var_defn_changed>false</var_defn_changed>
+        <var_meta_changed>false</var_meta_changed>
+        <version>11.0</version>
+        <workflow>{"approval_notifications":[],"assignments":{"sys_user":{"display":"","value":""},"sys_user_group":{"display":"","value":""}},"approvals":[],"completion_notifications":[{"display":"the requestor","type":"field","value":"opened_by"}],"submission_notifications":[{"display":"the requestor","type":"field","value":"opened_by"}]}</workflow>
+    </sc_ic_item_staging>
+    <fx_price action="DELETE" query="id=1962c72897a63110a9bc7e121153af26"/>
+    <sys_translated_text action="DELETE" query="documentkey=1962c72897a63110a9bc7e121153af26"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_ic_item_staging_1962c72897a63110a9bc7e121153af26</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_item_staging"><sc_ic_item_staging action="INSERT_OR_UPDATE"><active>true</active><aprvl_defn_changed>false</aprvl_defn_changed><availability>on_both</availability><counter>12</counter><description/><desktop_image/><entitlements>{"cmn_location":[],"sys_user_group":[],"cmn_department":[]}</entitlements><fulfillment_group/><fulfillment_user/><item_type>sc_cat_item_producer_service</item_type><layout_changed>false</layout_changed><mobile_image/><name>Test item</name><recurring_frequency/><sc_cat_item display_value="Test item">25609f0797a23110a9bc7e121153afe3</sc_cat_item><sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs><sc_categories>93d043a497a63110a9bc7e121153af3a,95fc11615f1211001c9b2572f2b477c6</sc_categories><short_description/><state>published</state><submission_message/><sys_class_name>sc_ic_item_staging</sys_class_name><sys_created_by>Brian.Wallace</sys_created_by><sys_created_on>2023-11-13 18:19:47</sys_created_on><sys_id>1962c72897a63110a9bc7e121153af26</sys_id><sys_mod_count>12</sys_mod_count><sys_name>Test item</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_ic_item_staging_1962c72897a63110a9bc7e121153af26</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 13:45:30</sys_updated_on><table_name>x_685589_test_ap_0_x_catalog_r</table_name><task_defn_changed>false</task_defn_changed><var_defn_changed>false</var_defn_changed><var_meta_changed>false</var_meta_changed><version>11.0</version><workflow>{"approval_notifications":[],"assignments":{"sys_user":{"display":"","value":""},"sys_user_group":{"display":"","value":""}},"approvals":[],"completion_notifications":[{"display":"the requestor","type":"field","value":"opened_by"}],"submission_notifications":[{"display":"the requestor","type":"field","value":"opened_by"}]}</workflow></sc_ic_item_staging><fx_price action="delete_multiple" query="id=1962c72897a63110a9bc7e121153af26"/><sys_translated_text action="delete_multiple" query="documentkey=1962c72897a63110a9bc7e121153af26"/></record_update>]]></payload>
+        <payload_hash>-946924618</payload_hash>
+        <record_name>Test item</record_name>
+        <reverted_from/>
+        <source>51b9ca6797dab110a9bc7e121153af66</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:45:56</sys_created_on>
+        <sys_id>fb60934797a23110a9bc7e121153af93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf22163a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:45:56</sys_updated_on>
+        <type>Item</type>
+        <update_guid>b360934714a231100ad63aea0b80c893</update_guid>
+        <update_guid_history>b360934714a231100ad63aea0b80c893:-946924618,d9501b0788a23110319515b285f312b1:2073649894,12ce03c380a2311035ddd95d288bd738:-438910851,a7be0f83fba23110a93b34882b8dba5b:1972559762,5bbe0f83f2a231102a0b050a11b35c51:236943657,1bbe8f8f2a623110dd4bfbf8b86239f7:961494484,f4bb8f8f89623110fb087d0ab49cca76:-1970346625,6eabcb8fe6623110911b1ec7b3238f50:1774443346,62abcb8ff36231100ef9dbee3cc53c39:2112552172,62abcb8fa66231108bb45a5345e06133:1372361366,1aab8b8fcc623110e50dca8c278b4ae4:-2141923487,642a4f0f416231108c7a4362cc723e6f:-1539819665,8362cf28f2a63110d9ab8eb9dd95b068:-922466751,b1624f2835a63110767914fa020bb9f5:-1322213623,31624f2818a631105dbe44697589b1f2:-817973633,25624f28aca631106fb5c8ff275ba7a0:-1475691177,2162c728a8a63110cee7fd5c5386cc2f:1382646123,a562c72821a6311066af30879fec822d:-1475691177</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test item">c7d2db4b97a23110a9bc7e121153af46</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:56:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_item_staging">sc_ic_item_staging</sys_db_object>
+        <sys_id>416b08dfd0a74f32a52856d3c8237c84</sys_id>
+        <sys_metadata>1962c72897a63110a9bc7e121153af26</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test item</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent display_value="Test item">25609f0797a23110a9bc7e121153afe3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_ic_item_staging_1962c72897a63110a9bc7e121153af26</sys_update_name>
+        <sys_update_version display_value="sc_ic_item_staging_1962c72897a63110a9bc7e121153af26">fb60934797a23110a9bc7e121153af93</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:56:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Test item">c980174797a23110a9bc7e121153affb</catalog_item>
+        <catalog_variable>IO:ed80574797a23110a9bc7e121153afcc</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:46:23</sys_created_on>
+        <sys_id>9e80d74797a23110a9bc7e121153af28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>informaes_adicionais_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_9e80d74797a23110a9bc7e121153af28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:46:23</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Test item UI policy">d680d74797a23110a9bc7e121153af21</ui_policy>
+        <variable>informaes_adicionais_00</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>catalog_ui_policy_action_9e80d74797a23110a9bc7e121153af28</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Test item">c980174797a23110a9bc7e121153affb</catalog_item><catalog_variable>IO:ed80574797a23110a9bc7e121153afcc</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 13:46:23</sys_created_on><sys_id>9e80d74797a23110a9bc7e121153af28</sys_id><sys_mod_count>0</sys_mod_count><sys_name>informaes_adicionais_00</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>catalog_ui_policy_action_9e80d74797a23110a9bc7e121153af28</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 13:46:23</sys_updated_on><table/><ui_policy display_value="Test item UI policy">d680d74797a23110a9bc7e121153af21</ui_policy><variable>informaes_adicionais_00</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-2014197615</payload_hash>
+        <record_name>informaes_adicionais_00</record_name>
+        <reverted_from/>
+        <source>51b9ca6797dab110a9bc7e121153af66</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:46:23</sys_created_on>
+        <sys_id>2680d74797a23110a9bc7e121153af30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf221ce9d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:46:23</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>e280d747aca2311071fbb1de496c7230</update_guid>
+        <update_guid_history>e280d747aca2311071fbb1de496c7230:-2014197615</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="informaes_adicionais_00">b3805b4797a23110a9bc7e121153af27</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:46:28</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>9ed891c36c3e494ba1dddcaf837ac7e1</sys_id>
+        <sys_metadata>9e80d74797a23110a9bc7e121153af28</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>informaes_adicionais_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_9e80d74797a23110a9bc7e121153af28</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_9e80d74797a23110a9bc7e121153af28">2680d74797a23110a9bc7e121153af30</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:46:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

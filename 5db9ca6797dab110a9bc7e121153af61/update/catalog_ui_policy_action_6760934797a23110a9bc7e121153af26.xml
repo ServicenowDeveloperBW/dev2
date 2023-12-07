@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Test item">25609f0797a23110a9bc7e121153afe3</catalog_item>
+        <catalog_variable>IO:8260df0797a23110a9bc7e121153afab</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:45:55</sys_created_on>
+        <sys_id>6760934797a23110a9bc7e121153af26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new_single_line_text_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_6760934797a23110a9bc7e121153af26</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:45:55</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Test item UI policy">6760934797a23110a9bc7e121153af04</ui_policy>
+        <variable>new_single_line_text_00</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

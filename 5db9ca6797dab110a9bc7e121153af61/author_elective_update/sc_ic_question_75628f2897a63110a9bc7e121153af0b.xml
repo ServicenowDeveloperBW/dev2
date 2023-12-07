@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question">
+    <sc_ic_question action="DELETE">
+        <base_type>3</base_type>
+        <default_value/>
+        <help_text/>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>contact_method_00</name>
+        <order>2</order>
+        <policy_payload>{}</policy_payload>
+        <preconfigured>false</preconfigured>
+        <question_text>Contact Method</question_text>
+        <read_only>false</read_only>
+        <read_only_question_type>false</read_only_question_type>
+        <sc_ic_column display_value="">f1624f2897a63110a9bc7e121153afeb</sc_ic_column>
+        <sc_ic_item_staging display_value="Test item">1962c72897a63110a9bc7e121153af26</sc_ic_item_staging>
+        <sc_ic_question_class display_value="Multiple Choice">81affb11eb5211003623666cd206fe0c</sc_ic_question_class>
+        <sc_ic_question_type display_value="Contact Method">49c73503c3021100c8b837659bba8f96</sc_ic_question_type>
+        <sc_ic_section display_value="Section 1">e5624f2897a63110a9bc7e121153afda</sc_ic_section>
+        <scale_max>3</scale_max>
+        <scale_min>0</scale_min>
+        <sys_class_name>sc_ic_question</sys_class_name>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:49</sys_created_on>
+        <sys_id>75628f2897a63110a9bc7e121153af0b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>contact_method_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_ic_question_75628f2897a63110a9bc7e121153af0b</sys_update_name>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:49</sys_updated_on>
+    </sc_ic_question>
+    <fx_price action="DELETE" query="id=75628f2897a63110a9bc7e121153af0b"/>
+    <sys_translated_text action="DELETE" query="documentkey=75628f2897a63110a9bc7e121153af0b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_ic_question_75628f2897a63110a9bc7e121153af0b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_question"><sc_ic_question action="INSERT_OR_UPDATE"><base_type>3</base_type><default_value/><help_text/><mandatory>false</mandatory><max_length>255</max_length><name>contact_method_00</name><order>2</order><policy_payload>{}</policy_payload><preconfigured>false</preconfigured><question_text>Contact Method</question_text><read_only>false</read_only><read_only_question_type>false</read_only_question_type><sc_ic_column display_value="">f1624f2897a63110a9bc7e121153afeb</sc_ic_column><sc_ic_item_staging display_value="Test item">1962c72897a63110a9bc7e121153af26</sc_ic_item_staging><sc_ic_question_class display_value="Multiple Choice">81affb11eb5211003623666cd206fe0c</sc_ic_question_class><sc_ic_question_type display_value="Contact Method">49c73503c3021100c8b837659bba8f96</sc_ic_question_type><sc_ic_section display_value="Section 1">e5624f2897a63110a9bc7e121153afda</sc_ic_section><scale_max>3</scale_max><scale_min>0</scale_min><sys_class_name>sc_ic_question</sys_class_name><sys_created_by>Brian.Wallace</sys_created_by><sys_created_on>2023-11-13 18:19:49</sys_created_on><sys_id>75628f2897a63110a9bc7e121153af0b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>contact_method_00</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_ic_question_75628f2897a63110a9bc7e121153af0b</sys_update_name><sys_updated_by>Brian.Wallace</sys_updated_by><sys_updated_on>2023-11-13 18:19:49</sys_updated_on></sc_ic_question><fx_price action="delete_multiple" query="id=75628f2897a63110a9bc7e121153af0b"/><sys_translated_text action="delete_multiple" query="documentkey=75628f2897a63110a9bc7e121153af0b"/></record_update>]]></payload>
+        <payload_hash>-1245108027</payload_hash>
+        <record_name>contact_method_00</record_name>
+        <reverted_from/>
+        <source>a25a194897aa3510a9bc7e121153afc5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Brian.Wallace</sys_created_by>
+        <sys_created_on>2023-11-13 18:19:49</sys_created_on>
+        <sys_id>f1628f2897a63110a9bc7e121153af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bc9e9436e0000001</sys_recorded_at>
+        <sys_updated_by>Brian.Wallace</sys_updated_by>
+        <sys_updated_on>2023-11-13 18:19:49</sys_updated_on>
+        <type>Question</type>
+        <update_guid>f9628f287aa631102c4505cc17aa8c18</update_guid>
+        <update_guid_history>f9628f287aa631102c4505cc17aa8c18:-1245108027,bd628f28bfa6311023d2cb8f19f4ad0c:1580308106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="contact_method_00">d2ab8b8f97623110a9bc7e121153affc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:25:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_question">sc_ic_question</sys_db_object>
+        <sys_id>1638a90ce539488a98a54748dc0a9284</sys_id>
+        <sys_metadata>75628f2897a63110a9bc7e121153af0b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contact_method_00</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent display_value="">1962c72897a63110a9bc7e121153af26</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_ic_question_75628f2897a63110a9bc7e121153af0b</sys_update_name>
+        <sys_update_version display_value="sc_ic_question_75628f2897a63110a9bc7e121153af0b">f1628f2897a63110a9bc7e121153af19</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:25:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

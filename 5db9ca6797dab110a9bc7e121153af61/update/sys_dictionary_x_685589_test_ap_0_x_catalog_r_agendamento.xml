@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Brian.Wallace</sys_created_by>
         <sys_created_on>2023-11-13 19:45:57</sys_created_on>
-        <sys_id>ab1613a0972a3110a9bc7e121153af49</sys_id>
         <sys_name>Agendamento</sys_name>
         <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
         <sys_policy/>

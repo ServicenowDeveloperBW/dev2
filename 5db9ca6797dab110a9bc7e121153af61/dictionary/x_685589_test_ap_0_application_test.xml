@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="633a86a797dab110a9bc7e121153af3f" extends="task" label="Application_test" max_length="40" name="x_685589_test_ap_0_application_test" text_index="true" type="collection">
+        <element choice="1" display="true" label="Application Test" max_length="40" name="application_test" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Field 1" sequence="0" value="field_1"/>
+                <element inactive_on_update="false" label="Field 2" sequence="1" value="field_2"/>
+                <element inactive_on_update="false" label="Field 3" sequence="2" value="field_3"/>
+            </choice>
+        </element>
+    </element>
+</database>

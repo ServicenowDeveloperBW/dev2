@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_toolbar</name>
+        <page display_value="simple page">4a0eab7797563510a9bc7e121153af46</page>
+        <required_translations>[ {
+  "message" : "New Change Request",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix>chrome_toolbar</suffix>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 13:47:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2ac07b3b97563510a9bc7e121153af40</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sys_ux_page_property_2ac07b3b97563510a9bc7e121153af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 13:58:47</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_685589_test_ap_0.4a0eab7797563510a9bc7e121153af46.root.chrome_toolbar</unique_name>
+        <value>{&#13;
+	"contextual": [&#13;
+		"record",&#13;
+		"kb_view"&#13;
+	],&#13;
+	"newTabMenu": [&#13;
+		{&#13;
+			"label": {&#13;
+				"translatable": true,&#13;
+				"message": "New Interaction"&#13;
+			},&#13;
+			"routeInfo": {&#13;
+				"route": "record",&#13;
+				"fields": {&#13;
+					"table": "task",&#13;
+					"sysId": ""&#13;
+				},&#13;
+				"multiInstField": "sysId"&#13;
+			},&#13;
+			"condition": {&#13;
+				"tableDescription": {&#13;
+					"table": "interaction",&#13;
+					"canCreate": true&#13;
+				}&#13;
+			}&#13;
+		},&#13;
+		{&#13;
+			"label": {&#13;
+				"translatable": true,&#13;
+				"message": "New Incident"&#13;
+			},&#13;
+			"routeInfo": {&#13;
+				"route": "record",&#13;
+				"fields": {&#13;
+					"table": "incident",&#13;
+					"sysId": "-1"&#13;
+				},&#13;
+				"multiInstField": "sysId"&#13;
+			},&#13;
+			"condition": {&#13;
+				"tableDescription": {&#13;
+					"table": "incident",&#13;
+					"canCreate": true&#13;
+				}&#13;
+			}&#13;
+		},&#13;
+		{&#13;
+			"label": {&#13;
+				"translatable": true,&#13;
+				"message": "New Change Request"&#13;
+			},&#13;
+			"routeInfo": {&#13;
+				"route": "create-change-request-page",&#13;
+				"fields": {},&#13;
+				"multiInstField": ""&#13;
+			},&#13;
+			"condition": {&#13;
+				"tableDescription": {&#13;
+					"table": "change_request",&#13;
+					"canCreate": true&#13;
+				}&#13;
+			}&#13;
+		}&#13;
+	],&#13;
+	"maxMainTabLimit": 10,&#13;
+	"maxTotalSubTabLimit": 30&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=2ac07b3b97563510a9bc7e121153af40"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sys_ux_page_property_2ac07b3b97563510a9bc7e121153af40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_toolbar</name><page display_value="simple page">4a0eab7797563510a9bc7e121153af46</page><required_translations>[ {
+  "message" : "New Change Request",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+} ]</required_translations><route/><suffix>chrome_toolbar</suffix><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-11 13:47:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>2ac07b3b97563510a9bc7e121153af40</sys_id><sys_mod_count>3</sys_mod_count><sys_name>chrome_toolbar</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sys_ux_page_property_2ac07b3b97563510a9bc7e121153af40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-11 13:58:47</sys_updated_on><type>json</type><unique_name>x_685589_test_ap_0.4a0eab7797563510a9bc7e121153af46.root.chrome_toolbar</unique_name><value>{&#13;
+	"contextual": [&#13;
+		"record",&#13;
+		"kb_view"&#13;
+	],&#13;
+	"newTabMenu": [&#13;
+		{&#13;
+			"label": {&#13;
+				"translatable": true,&#13;
+				"message": "New Interaction"&#13;
+			},&#13;
+			"routeInfo": {&#13;
+				"route": "record",&#13;
+				"fields": {&#13;
+					"table": "task",&#13;
+					"sysId": ""&#13;
+				},&#13;
+				"multiInstField": "sysId"&#13;
+			},&#13;
+			"condition": {&#13;
+				"tableDescription": {&#13;
+					"table": "interaction",&#13;
+					"canCreate": true&#13;
+				}&#13;
+			}&#13;
+		},&#13;
+		{&#13;
+			"label": {&#13;
+				"translatable": true,&#13;
+				"message": "New Incident"&#13;
+			},&#13;
+			"routeInfo": {&#13;
+				"route": "record",&#13;
+				"fields": {&#13;
+					"table": "incident",&#13;
+					"sysId": "-1"&#13;
+				},&#13;
+				"multiInstField": "sysId"&#13;
+			},&#13;
+			"condition": {&#13;
+				"tableDescription": {&#13;
+					"table": "incident",&#13;
+					"canCreate": true&#13;
+				}&#13;
+			}&#13;
+		},&#13;
+		{&#13;
+			"label": {&#13;
+				"translatable": true,&#13;
+				"message": "New Change Request"&#13;
+			},&#13;
+			"routeInfo": {&#13;
+				"route": "create-change-request-page",&#13;
+				"fields": {},&#13;
+				"multiInstField": ""&#13;
+			},&#13;
+			"condition": {&#13;
+				"tableDescription": {&#13;
+					"table": "change_request",&#13;
+					"canCreate": true&#13;
+				}&#13;
+			}&#13;
+		}&#13;
+	],&#13;
+	"maxMainTabLimit": 10,&#13;
+	"maxTotalSubTabLimit": 30&#13;
+}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=2ac07b3b97563510a9bc7e121153af40"/></record_update>]]></payload>
+        <payload_hash>182366353</payload_hash>
+        <record_name>chrome_toolbar</record_name>
+        <reverted_from/>
+        <source>f9a1dfbf97923510a9bc7e121153afff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 13:58:48</sys_created_on>
+        <sys_id>7a73ff3f97563510a9bc7e121153af3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bbead93000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 13:58:48</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>7273ff3f72563510e4376c482bb8ae3b</update_guid>
+        <update_guid_history>7273ff3f72563510e4376c482bb8ae3b:182366353,1413bfbbb1563510f5662ef405f63714:-2105119018,520173bb5d5635107634738263ff7e16:538664187,6ec07b3bc556351087a5386c44b36e41:1878797823</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 13:59:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>633bcf2dc98145548064d126ea621744</sys_id>
+        <sys_metadata>2ac07b3b97563510a9bc7e121153af40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_2ac07b3b97563510a9bc7e121153af40</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_2ac07b3b97563510a9bc7e121153af40">7a73ff3f97563510a9bc7e121153af3b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 13:59:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

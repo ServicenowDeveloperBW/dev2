@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Section One" section_id="f6dc4a6b97dab110a9bc7e121153afc2" sys_domain="global" table="x_685589_test_ap_0_application_test" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>application_test</element>
+            <position>0</position>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-10 11:51:57</sys_created_on>
+            <sys_id>72dc8a6b97dab110a9bc7e121153af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section One" display_value="Section One" name="x_685589_test_ap_0_application_test" sys_domain="global" view="Default view">f6dc4a6b97dab110a9bc7e121153afc2</sys_ui_section>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-10 11:51:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-10 11:51:57</sys_created_on>
+            <sys_id>76dc8a6b97dab110a9bc7e121153af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section One" display_value="Section One" name="x_685589_test_ap_0_application_test" sys_domain="global" view="Default view">f6dc4a6b97dab110a9bc7e121153afc2</sys_ui_section>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-10 11:51:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_set</element>
+            <position>2</position>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-10 11:51:57</sys_created_on>
+            <sys_id>7adc8a6b97dab110a9bc7e121153af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section One" display_value="Section One" name="x_685589_test_ap_0_application_test" sys_domain="global" view="Default view">f6dc4a6b97dab110a9bc7e121153afc2</sys_ui_section>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-10 11:51:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Section One</caption>
+            <header>false</header>
+            <name>x_685589_test_ap_0_application_test</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Brian.Wallace</sys_created_by>
+            <sys_created_on>2023-11-10 11:51:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6dc4a6b97dab110a9bc7e121153afc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_685589_test_ap_0_application_test</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+            <sys_update_name>sys_ui_section_f6dc4a6b97dab110a9bc7e121153afc2</sys_update_name>
+            <sys_updated_by>Brian.Wallace</sys_updated_by>
+            <sys_updated_on>2023-11-10 11:51:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

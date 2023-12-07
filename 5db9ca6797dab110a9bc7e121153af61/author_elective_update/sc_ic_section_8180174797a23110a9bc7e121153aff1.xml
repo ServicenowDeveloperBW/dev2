@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_section">
+    <sc_ic_section action="DELETE">
+        <index>0</index>
+        <label/>
+        <name>Section 1</name>
+        <sc_ic_item_staging display_value="">b880d3cf97623110a9bc7e121153af61</sc_ic_item_staging>
+        <sys_class_name>sc_ic_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:46:18</sys_created_on>
+        <sys_id>8180174797a23110a9bc7e121153aff1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section 1</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sc_ic_section_8180174797a23110a9bc7e121153aff1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:46:18</sys_updated_on>
+    </sc_ic_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sc_ic_section_8180174797a23110a9bc7e121153aff1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_section"><sc_ic_section action="INSERT_OR_UPDATE"><index>0</index><label/><name>Section 1</name><sc_ic_item_staging display_value="">b880d3cf97623110a9bc7e121153af61</sc_ic_item_staging><sys_class_name>sc_ic_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 13:46:18</sys_created_on><sys_id>8180174797a23110a9bc7e121153aff1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Section 1</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sc_ic_section_8180174797a23110a9bc7e121153aff1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 13:46:18</sys_updated_on></sc_ic_section></record_update>]]></payload>
+        <payload_hash>-1409034643</payload_hash>
+        <record_name>Section 1</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:46:33</sys_created_on>
+        <sys_id>b890db4797a23110a9bc7e121153af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf221f51f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:46:33</sys_updated_on>
+        <type>Section</type>
+        <update_guid>7890db472fa23110d4c6a89d1580a33d</update_guid>
+        <update_guid_history>7890db472fa23110d4c6a89d1580a33d:-1409034643</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Section 1">f090db4797a23110a9bc7e121153af44</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 13:46:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_section">sc_ic_section</sys_db_object>
+        <sys_id>32a37f1966554ad28e089ae82cf08079</sys_id>
+        <sys_metadata>8180174797a23110a9bc7e121153aff1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section 1</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sc_ic_section_8180174797a23110a9bc7e121153aff1</sys_update_name>
+        <sys_update_version display_value="sc_ic_section_8180174797a23110a9bc7e121153aff1">b890db4797a23110a9bc7e121153af3d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 13:46:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

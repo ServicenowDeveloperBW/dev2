@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent_config>{}</macroponent_config>
+        <screen display_value="Default">e3981fbb97d23510a9bc7e121153af3c</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 12:01:25</sys_created_on>
+        <sys_id>a3981fbb97d23510a9bc7e121153af40</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_a3981fbb97d23510a9bc7e121153af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 12:30:25</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sys_uib_screen_test_values_a3981fbb97d23510a9bc7e121153af40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config>{}</macroponent_config><screen display_value="Default">e3981fbb97d23510a9bc7e121153af3c</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-11 12:01:25</sys_created_on><sys_id>a3981fbb97d23510a9bc7e121153af40</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sys_uib_screen_test_values_a3981fbb97d23510a9bc7e121153af40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-11 12:30:25</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>1909986940</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f9a1dfbf97923510a9bc7e121153afff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 12:30:25</sys_created_on>
+        <sys_id>444f9bb397163510a9bc7e121153af79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bbe5ca8d30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 12:30:25</sys_updated_on>
+        <type>UIB Screen Test Values</type>
+        <update_guid>4c4f9bb3ea1635104a3d5f696684c278</update_guid>
+        <update_guid_history>4c4f9bb3ea1635104a3d5f696684c278:1909986940,2b981fbb84d235104293bdfa67016d41:977909785</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 12:40:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>397f53af83104634a616766c13634c04</sys_id>
+        <sys_metadata>a3981fbb97d23510a9bc7e121153af40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_a3981fbb97d23510a9bc7e121153af40</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_a3981fbb97d23510a9bc7e121153af40">444f9bb397163510a9bc7e121153af79</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 12:40:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

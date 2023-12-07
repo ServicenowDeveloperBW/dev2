@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Page_test">01471f3b97d23510a9bc7e121153af17</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 11:55:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a057533b97d23510a9bc7e121153afb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_update_name>sys_ux_page_property_a057533b97d23510a9bc7e121153afb0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 11:55:45</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_685589_test_ap_0.01471f3b97d23510a9bc7e121153af17.root.chrome_header</unique_name>
+        <value>{"privatePage":{"userPrefsEnabled":false,"searchEnabled":false,"currentScreenLinkConfiguration":{},"globalTools":{"collapsingMenuId":0,"primaryItems":[],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"searchEnabled":false,"logoRoute":{},"actionButtons":[]}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=a057533b97d23510a9bc7e121153afb0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</application>
+        <file_path/>
+        <instance_id>c9bc187ddb810510a667cac5059619f0</instance_id>
+        <instance_name>dev121632</instance_name>
+        <name>sys_ux_page_property_a057533b97d23510a9bc7e121153afb0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="Page_test">01471f3b97d23510a9bc7e121153af17</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-11 11:55:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>a057533b97d23510a9bc7e121153afb0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package><sys_policy/><sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope><sys_update_name>sys_ux_page_property_a057533b97d23510a9bc7e121153afb0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-11 11:55:45</sys_updated_on><type>json</type><unique_name>x_685589_test_ap_0.01471f3b97d23510a9bc7e121153af17.root.chrome_header</unique_name><value>{"privatePage":{"userPrefsEnabled":false,"searchEnabled":false,"currentScreenLinkConfiguration":{},"globalTools":{"collapsingMenuId":0,"primaryItems":[],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"searchEnabled":false,"logoRoute":{},"actionButtons":[]}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=a057533b97d23510a9bc7e121153afb0"/></record_update>]]></payload>
+        <payload_hash>-20527038</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>f9a1dfbf97923510a9bc7e121153afff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 11:55:45</sys_created_on>
+        <sys_id>ec57533b97d23510a9bc7e121153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bbe3ced8b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 11:55:45</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>2457533b8ed2351037a41dab93f52cb2</update_guid>
+        <update_guid_history>2457533b8ed2351037a41dab93f52cb2:-20527038</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 12:47:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0b83e804e5dc440881f438bdd54ab440</sys_id>
+        <sys_metadata>a057533b97d23510a9bc7e121153afb0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+        <sys_scope_delete display_value="">788010be4c0640f8b292fce2cd25b789</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_a057533b97d23510a9bc7e121153afb0</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_a057533b97d23510a9bc7e121153afb0">ec57533b97d23510a9bc7e121153afb2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 12:47:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
