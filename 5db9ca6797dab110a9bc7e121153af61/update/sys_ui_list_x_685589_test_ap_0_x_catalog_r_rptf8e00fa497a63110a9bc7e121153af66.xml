@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_685589_test_ap_0_x_catalog_r" version="2" view="RPTf8e00fa497a63110a9bc7e121153af66">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_685589_test_ap_0_x_catalog_r" element="NULL" name="x_685589_test_ap_0_x_catalog_r" parent="NULL" relationship="NULL" sys_domain="global" view="0d970fd8978f3510a9bc7e121153afc9">0d970fd8978f3510a9bc7e121153afcb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 20:35:21</sys_created_on>
+            <sys_id>c9970fd8978f3510a9bc7e121153afcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 20:35:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_685589_test_ap_0_x_catalog_r" element="NULL" name="x_685589_test_ap_0_x_catalog_r" parent="NULL" relationship="NULL" sys_domain="global" view="0d970fd8978f3510a9bc7e121153afc9">0d970fd8978f3510a9bc7e121153afcb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 20:35:21</sys_created_on>
+            <sys_id>41970fd8978f3510a9bc7e121153afcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 20:35:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_685589_test_ap_0_x_catalog_r" element="NULL" name="x_685589_test_ap_0_x_catalog_r" parent="NULL" relationship="NULL" sys_domain="global" view="0d970fd8978f3510a9bc7e121153afc9">0d970fd8978f3510a9bc7e121153afcb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 20:35:21</sys_created_on>
+            <sys_id>c1970fd8978f3510a9bc7e121153afcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 20:35:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_685589_test_ap_0_x_catalog_r" element="NULL" name="x_685589_test_ap_0_x_catalog_r" parent="NULL" relationship="NULL" sys_domain="global" view="0d970fd8978f3510a9bc7e121153afc9">0d970fd8978f3510a9bc7e121153afcb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 20:35:21</sys_created_on>
+            <sys_id>45970fd8978f3510a9bc7e121153afcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 20:35:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_685589_test_ap_0_x_catalog_r</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 20:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d970fd8978f3510a9bc7e121153afcb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_685589_test_ap_0_x_catalog_r</sys_name>
+            <sys_package display_value="Test Application " source="x_685589_test_ap_0">5db9ca6797dab110a9bc7e121153af61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application ">5db9ca6797dab110a9bc7e121153af61</sys_scope>
+            <sys_update_name>sys_ui_list_x_685589_test_ap_0_x_catalog_r_RPTf8e00fa497a63110a9bc7e121153af66</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 20:35:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptf8e00fa497a63110a9bc7e121153af66" name="RPTf8e00fa497a63110a9bc7e121153af66">0d970fd8978f3510a9bc7e121153afc9</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
